@@ -1,0 +1,36 @@
+body {
+	background: silver;
+	color: red;
+}
+.colorenlace 	{
+	color: red;
+}
+.fotofondo {
+	background: url("lista.PNG");
+}
+.negrita {
+	font-weight: bold;
+}
+.cursiva {
+	font-style: oblique;
+}
+.subrayado {
+	text-decoration: underline;
+}
+.tamañoletra {
+	font-size: xx-large;
+}
+.centrar {
+	text-align: center;
+}
+.centrarfoto {
+	display:block;
+	margin:auto;
+}
+.centrartabla {
+	display:table;
+	margin:auto;
+}
+table tr {
+  text-align: center;
+}
